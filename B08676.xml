@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain acts and declarations made by the ecclesiasticall congregation of the Arch-bishops, bishops, and other prelates. Met at Clonmacnoise the fourth day of December 1649. and since concluded.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08676</idno>
+            <idno type="STC">Wing C1683A</idno>
+            <idno type="STC">ESTC R173639</idno>
+            <idno type="EEBO-CITATION">64551053</idno>
+            <idno type="OCLC">ocm 64551053</idno>
+            <idno type="VID">184436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184436)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain acts and declarations made by the ecclesiasticall congregation of the Arch-bishops, bishops, and other prelates. Met at Clonmacnoise the fourth day of December 1649. and since concluded.</title>
+                  <author>Ecclesiasticall Congregation of the Arch-Bishops, Bishops, and Other Prelates.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>...Reprinted ...by Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reprint. Originally published: Kilkenny, Printed in the year of our Lord. 1649.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  Church history --  Early works to 1800.</term>
+               <term>Ireland --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184436:1"/>
+            <pb facs="tcp:184436:1"/>
+            <p>CERTAIN ACTS AND DECLARATIONS made by the Eccleſiaſticall Congre<g ref="char:EOLhyphen"/>gation of the Arch-biſhops, Biſhops, <hi>and other Prelates.</hi>
+            </p>
+            <p>Met at <hi>Clonmacnoiſe</hi> the fourth day of <hi>De<g ref="char:EOLhyphen"/>cember</hi> 1649. <hi>And ſince Concluded.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>KILKENNY</hi> Printed in the year of our Lord. 1649. <hi>And Reprin<g ref="char:EOLhyphen"/>ted at</hi> London <hi>by</hi> Robert Ibbitſon.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ecclesiastical_act">
+            <pb facs="tcp:184436:2"/>
+            <pb n="1" facs="tcp:184436:2"/>
+            <head>By the Eccleſiaſticall Congregation of the Arch<g ref="char:EOLhyphen"/>biſhops, Biſhops, and other Prelates.</head>
+            <p>WHereas heretofore many of the Clergy and Laity did in their actions and proceedings expreſſe much diſcon<g ref="char:EOLhyphen"/>tents and diviſions of minde, grounding the ſame on the late dif<g ref="char:EOLhyphen"/>ference of Opinion happened amongſt the Prelats and the Lay<g ref="char:EOLhyphen"/>ty, by which the Nation was not ſo well united, as was neceſ<g ref="char:EOLhyphen"/>ſary in this time of great Danger, wherein all, as with one heart and hand ought to oppoſe the Common Enemy. We the Archbiſhops, Biſhops, and Prelates of this Kingdome met <hi>motu proprie,</hi> at <hi>Clonmacknoſe</hi> 4 <hi>Decembris</hi> 1649, having re<g ref="char:EOLhyphen"/>moved all differences among us (not entring into the merits of diverſities of former opinions) thought good for removing of all jealouſies from our owne thoughts, hearts and reſolutions, and from others, who had relation, or were adherent to the for<g ref="char:EOLhyphen"/>mer diverſity of opinions, to manifeſt hereby to all the world that the ſaid diviſions, and jealouſies grounded thereupon, are now forgotten, and forgiven among us on all ſides as aforeſaid. And that all and every of us, of the above Archbiſhops, Biſhops, and Prelates are now, by the bleſſing of God, as one body united. And that we will, as becommeth charity and our paſtoral charge ſtand all of us as one intire body, for the intereſt and immunities of the Church and of every the Prelats and Biſhops thereof, and for the honour, dignity, eſtate, right, and poſſeſſion, of all and e<g ref="char:EOLhyphen"/>very the ſaid Archbiſhops, Biſhops and other Prelates. And we will as one intire and united body forward by our coun<g ref="char:EOLhyphen"/>ſailes, actions and deviſes the advancement of his Majeſties Rights, and the good of this Nation in general and in particular occaſions, to our power, and that none of us in any occaſion whatſoever concerning the Catholicke Religion, or the good of this Kingd. of <hi>Ireland,</hi> will in any reſpect ſingle himſelf, or be, or ſeem oppoſite to the reſt of us, but will hold firme and intire
+<pb n="2" facs="tcp:184436:3"/>in one ſence as aforeſaid; hereby deteſting the actions, thoughts and diſcourſes of any that ſhall renew the leaſt memory of the differences paſt, or give any ground of future difference among us, And do in the name of Ieſus Chriſt exhort all our flock to the like brotherly affection and union, and to the like deteſtati<g ref="char:EOLhyphen"/>on of all paſt differences or jealouſies as aforeſaid, ariſing hither<g ref="char:EOLhyphen"/>to among them. And we deſire that this our declaration be prin<g ref="char:EOLhyphen"/>ted and publiſhed in each Pariſh by command of the reſpective Ordinaries. <hi>ut videant opera veſtra bona &amp; glorificent Patrem ve<g ref="char:EOLhyphen"/>ſtrum qui in Caelis eſt.</hi>
+            </p>
+            <closer>
+               <dateline>Datum apud Clonmacnoſe <date>13 Decemb. 1649.</date>
+               </dateline>
+               <signed>Signed by,
+<list>
+                     <item>Hugo Ardmachanus.</item>
+                     <item>Fr. Thomas Dublin.</item>
+                     <item>Thomas Caſshel.</item>
+                     <item>Joan Archiep. Tuam.</item>
+                     <item>Fr. Boetius Elphyn.</item>
+                     <item>Fr. Edmundus Laghlinenſis &amp; Procurator Waterfordienſis,</item>
+                     <item>Emerus Clogher,</item>
+                     <item>Ro<g ref="char:EOLhyphen"/>bertus Corcagienſis &amp; Cluanenſis.</item>
+                     <item>Nicholaus Fernenſis.</item>
+                     <item>Edmun<g ref="char:EOLhyphen"/>dus Limericenſis. &amp; Procurator Epiſcopi. Oſſorienſis.</item>
+                     <item>Franciſcus. Aladenſis.</item>
+                     <item>Andraeus Finiborenſis.</item>
+                     <item>Joan. Laonenſis.</item>
+                     <item>Fr. Oliverus Dromorenſis,</item>
+                     <item>Fr. Antonius Clonmacnoſenſis.</item>
+                     <item>Fr. Hugo Duacenſis.</item>
+                     <item>Fr. Arthur Duneuſis, &amp; Connerenſis.</item>
+                     <item>Fr. Terentius Imolacenſis,</item>
+                     <item>Fr. Patr. Arsdagh.</item>
+                     <item>Oliverius. Deis Procurator Epiſco. Medenſis.</item>
+                     <item>Dr. Joa. Huſſey Procurator Epiſco. Ardfertenſis.</item>
+                     <item>Fr. Joannes Cantwell Ab<g ref="char:EOLhyphen"/>bas. <hi>S.</hi> Crucis.</item>
+                     <item>Dr. Thadeus Clery Epiſcop. Rapo. Procurator,</item>
+                     <item>Fr. Gregorius o Ferraile Provin. Ordinis Praedicatorum Provin. Hiber.</item>
+                     <item>Fr. Thomas Mackeyernane Provin. Fratrum Minorum Provin. Hiber.</item>
+                     <item>Walterus Clonfertenſis Congregationis Secretar.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="ecclesiastical_act">
+            <head>By the Eccleſiaſticall Congregation the Kingdome of IRELAND.</head>
+            <p>WEE the Archbiſhops, Biſhops, and other Ordianries, and Prelats of the Kingdome of <hi>Ireland,</hi> having met at <hi>Clo<g ref="char:EOLhyphen"/>nemacnoſe proprio Motu</hi> the fourth day of <hi>December</hi> in the year of our Lord God 1649. to conſider of the beſt meanes to unite our flocks, for averting Gods wrath fallen on this nation, now blee<g ref="char:EOLhyphen"/>ding under the evills, that famine, plague and warre bring af<g ref="char:EOLhyphen"/>ter them, for effecting a preſent union, decreed th' enſuing Acts.
+<list>
+                  <pb n="3" facs="tcp:184436:3"/>
+                  <item>1 We order and decree as an Act of this Congregation, that all Archbiſhops, Biſhops, and other Ordinaries within their re<g ref="char:EOLhyphen"/>ſpective Dioceſſes, ſhall injoyn publick prayers, faſting, Gene<g ref="char:EOLhyphen"/>rall Confeſſion, and Receiving, and other works of piety <hi>toties quo<g ref="char:EOLhyphen"/>ties</hi> to withdraw from this Nation Gods anger, and to render them Capable of his mercies.</item>
+                  <item>2 We order and decree as an act of this Congregation, that a Declaration iſſue from us letting the people know how vaine it is for them to expect from the Common Enemy commanded by <hi>Cromwel</hi> by authority from the Rebells of <hi>England,</hi> any aſſu<g ref="char:EOLhyphen"/>rance of their Religion, Lives, or Fortunes.</item>
+                  <item>3 We Order and decree as an Act of this Congregation, that all Paſtors and Preachers be injoyned to preach amity. And for inducing the people thereunto to declare unto them the abſolute neceſſity that is for the ſame, and as the cheife meanes to preſerve the Nation againſt the extirpation &amp; deſtruction of their Religion and Fortunes reſolved on by the Enemy. And we hereby do mani<g ref="char:EOLhyphen"/>feſt our deteſtation againſt al ſuch diviſions between either Provin<g ref="char:EOLhyphen"/>ces or Families: or between old Engliſh and old Iriſh, or any the <hi>Engliſh</hi> or <hi>Scots</hi> adhering to his Majeſty. And we decree and or<g ref="char:EOLhyphen"/>der that all Eccleſiaſticall perſons fomenting ſuch diſſentions, or unnaturall diviſions, be puniſhed by their reſpective Prelats, and Superiours, <hi>Juxta gravitatem exceſſus, &amp; (ſi opus fuerit) ſuſpen<g ref="char:EOLhyphen"/>dantur beneficiali &amp; Paſtores a beneficio &amp; officio ad certum tempus, Religioſi autem a Divinis juxto circumſtantias delicti.</hi> Leaving the Layty offending in this kind, to be corrected by the Civil Magi<g ref="char:EOLhyphen"/>ſtrate, by Impriſonment, Fine, Baniſhment, or otherwiſe, as to them ſhall ſeem beſt, for plucking by the root, ſo odious a crime; the execution whereof we moſt earneſtly recommend to all thoſe having power, and that are concerned therein, as they will an<g ref="char:EOLhyphen"/>ſwer to God for the evills that thereout may inſue.</item>
+                  <item>4 We <hi>Decree</hi> and <hi>Declare</hi> excommunicated, thoſe high way robbers commonly called the Idle Boyes, that take away the goods of honeſt men or force men to pay them Contribution, and we likewiſe declare Excommunicated all ſuch as ſuccour or harbour them, or beſtow or ſell them any victualing, or buy Cattle or any other thing elſe from them wittingly, Likewiſe all Eccleſiaſticall perſons miniſtring ſacraments to ſuch robbers,
+<pb n="4" facs="tcp:184436:4"/>or Idle boyes; or burying them in holy grave, to be ſuſpended <hi>ab officio &amp; beneficio, ſi quod habent,</hi> by their reſpective ſuperiours <hi>juxta gravitatem delicti.</hi> This our decree is to oblige within fifteen dayes after the publication thereof in the reſpective Dio<g ref="char:EOLhyphen"/>ceſes.</item>
+               </list>
+            </p>
+            <closer>
+               <signed>Signed by,
+<list>
+                     <item>Hugo Ardmachanus.</item>
+                     <item>Fr. Thomas Dublin.</item>
+                     <item>Thomas Caſshel.</item>
+                     <item>Joan. Archiep. Tuam.</item>
+                     <item>Fr. Boetius Elphyn.</item>
+                     <item>Fr. Edmundus Laghlinenſis &amp; Procurator Waterfordienſis.</item>
+                     <item>Emerus Clogher,</item>
+                     <item>Robertus Corcagienſis &amp; Cluanenſis.</item>
+                     <item>Nicolaus Fernenſis.</item>
+                     <item>Edmundus Limericenſis, &amp; Procurator Epiſcopi Oſſorienſis.</item>
+                     <item>Franciſcus Aladenſis.</item>
+                     <item>Andreas Fi<g ref="char:EOLhyphen"/>niborenſis.</item>
+                     <item>Joan. Laonenſis.</item>
+                     <item>Fr. Oliverus Dromorenſis,</item>
+                     <item>Fr. An<g ref="char:EOLhyphen"/>tonius Clonmacnoſenſis.</item>
+                     <item>Fr. Hugo Duacenſis.</item>
+                     <item>Fr. Arthurus Dunen<g ref="char:EOLhyphen"/>ſis, &amp; Connerenſis.</item>
+                     <item>Fr. Terentius Imolacenſis.</item>
+                     <item>Fr. Patric. Ardagh.</item>
+                     <item>Oliverius Deis Procurator Epiſco. Medenſis.</item>
+                     <item>Dr. Joannes Huſſey Pro<g ref="char:EOLhyphen"/>curator Epiſcop. Ardfertenſis.</item>
+                     <item>Fr. Joannes Cantwell Abbas. S, Cru<g ref="char:EOLhyphen"/>cis</item>
+                     <item>Dr. Thadeus Clery Epiſcop. Rapo. Procurator.</item>
+                     <item>Walterus Clonfertenſis Congregationis Secretar.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="ecclesiastical_act">
+            <head>
+               <hi>By the Eccleſiaſticall Congregation of the Kingdome of</hi> Ireland.</head>
+            <p>VVE the Archbiſhops, Biſhops, and other Or<g ref="char:EOLhyphen"/>dinaries and Prelats of this Kingdome of <hi>Ireland,</hi> having met at <hi>Clonmacnoſe proprio motu,</hi> on the fourth day of <hi>December,</hi> in the yeare of our <hi>Lord God</hi> 1649. taking into our conſideration among other the affaires then agitated and determinated for the preſer<g ref="char:EOLhyphen"/>vation of the kingdome, that many of our flock are miſlead by a vaine opinion of hopes, that the Com<g ref="char:EOLhyphen"/>mander in chiefe of the Rebels Forces, commonly cal<g ref="char:EOLhyphen"/>led the Parliamentaries, would afford them good con<g ref="char:EOLhyphen"/>ditions, and that relying thereon they ſuffer utter de<g ref="char:EOLhyphen"/>ſtruction of Religion, lives, and fortunes, if not pre<g ref="char:EOLhyphen"/>vented. To undeceive them in that their ungrounded
+<pb n="5" facs="tcp:184436:4"/>expectation, we do hereby declare as a moſt certaine truth, that the Enemies reſolution is, to extirpate the Catholique religion, out of all his Majeſties Domi<g ref="char:EOLhyphen"/>nions, as by their ſeverall Covenants doth appear, and the practice where-ever their power doth extend, as is manifeſted by <hi>Cromwels</hi> Letter of the 19 of <hi>Octob.</hi> 1649 to the then Governour of <hi>Roſſe.</hi> His words are: <hi>For that which you mention concerning liberty of Religion, I meddle not with any mans Conſcience, but if by liberty of Conſcience, you mean a liberty to exerciſe the maſſe,</hi> I <hi>judge it beſt to uſe plaine dealing, and to let you know, where the Parliament of</hi> England <hi>have power, that will not be allowed of.</hi> This ty<g ref="char:EOLhyphen"/>rannicall reſolution they have put in execution in <hi>Wexford, Drogheda, Roſſe</hi> and elſewhere. And it is noto<g ref="char:EOLhyphen"/>riouſly known, that by Acts of Parliament, called <hi>The Acts of Subſcription,</hi> the Eſtates of the Inhabitants of this kingdome are ſold, ſo as there remaineth now no more, but to put the purchaſers in poſſeſſion, by the power of Forces drawn out of <hi>England.</hi> And for the common ſort of people, towards whom if they ſhew any more moderate uſage at the preſent, it is to no o<g ref="char:EOLhyphen"/>ther end but for their private advantage, and for the better ſupport of their Army, intending at the cloſe of their conqueſt (if they can effect the ſame as God for<g ref="char:EOLhyphen"/>bid) to root out the Commons alſo, and plant this land with Colonies to be brought hither out of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as witneſſe the number they have already ſent hence for the Tobacco Iſlands, and put enemies in their places.</p>
+            <p>And in effect this baniſhment or other deſtructions of the c<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mon
+<pb n="6" facs="tcp:184436:5"/>people, muſt follow the reſolution of extirpating the Ca<g ref="char:EOLhyphen"/>tholique Religion, which is not to be effected without the maſ<g ref="char:EOLhyphen"/>ſacring or baniſhment of the Catholique Inhabitants.</p>
+            <p>We cannot therefore in our duty to God, and in diſcharge of the care wee are obliged to have for the preſervation of our flocks, but admoniſh them, not to delude and looſe themſelves with the vaine expectation of conditions to be had from that mercileſſe Enemy. And conſequently we beſeech the Gentry, and Inhabitants, for Gods glory, and their own ſafety, to the uttermoſt of their power, to contribute with patience, to the ſup<g ref="char:EOLhyphen"/>port of the Warre againſt that Enemy, in hope that by the bleſ<g ref="char:EOLhyphen"/>ſing of God, they may be reſcued from the threatned evils, and in time be permitted to ſerve God in their Native Country, and enjoy their Eſtates, and fruits of their labours, free from ſuch heavy levies, or any other ſuch taxes as they beare at preſent: Admoniſhing alſo thoſe that are inliſted of the Army, to proſe<g ref="char:EOLhyphen"/>cute conſtantly according to each mans charge the truſt repoſed in them, the oppoſition of the Common Enemy, in ſo juſt a Warre, as is that they have undertaken for their Religion, King, and Country, as they expect the bleſſing of God to fall on their actions. And that to avoyd Gods heavy judgement, and the indignation of their Native Country, they neither plunder nor oppreſſe the people, nor ſuffer any under their charge, to commit any extortion or oppreſſion, ſo far as ſhall lye in their power to prevent.</p>
+            <closer>
+               <signed>Signed by
+<list>
+                     <item>Hugo Ardmachanus.</item>
+                     <item>Fr. Thomas Dublin.</item>
+                     <item>Thomas Casſhel.</item>
+                     <item>Joan Archiep. Tuam.</item>
+                     <item>Fr. Boetius Elphyn.</item>
+                     <item>Fr. Edmundus Laghlinenſis &amp; Procurator Waterfordienſis,</item>
+                     <item>Emerus Clogher,</item>
+                     <item>Robertus Corcagienſis <hi>&amp;</hi> Cluanenſis.</item>
+                     <item>Nicelaus Fernenſis.</item>
+                     <item>Edmundus Limericenſis, <hi>&amp;</hi> Procu<g ref="char:EOLhyphen"/>rator Epiſcopi</item>
+                     <item>O<g ref="char:punc">▪</g> Jorienſis.</item>
+                     <item>Franciſcus Aladenſis.</item>
+                     <item>Andreas Finibo<g ref="char:EOLhyphen"/>renſis.</item>
+                     <item>Joan. Laonenſis.</item>
+                     <item>Fr. Oliverus Dromorenſis,</item>
+                     <item>Fr. Antonius Clon<g ref="char:EOLhyphen"/>macnoſenſis.</item>
+                     <item>Fr. Hugo Duacenſis.</item>
+                     <item>Fr. Arthurus Dunenſis, <hi>&amp;</hi> Conne<g ref="char:EOLhyphen"/>renſis.</item>
+                     <item>Fr. Terentius Imolacenſis,</item>
+                     <item>Fr. Patric. Ardagh.</item>
+                     <item>Oliverus Deis procurator Epiſco. Medenſis.</item>
+                     <item>Dr. Joannes Huſſey procurator Epiſco. Ardfertenſis.</item>
+                     <item>Fr. Joannes Cantwell Abbas. S. Crucis.</item>
+                     <item>Dr. Thadeus Clery Epiſcop. Rapo. Procurator,</item>
+                     <item>Walterus Clonfertenſis Congregationis Secretar.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Imprimatur,</p>
+               <closer>
+                  <signed>Henry Scobel. Cler. Parliamenti.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:184436:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
